@@ -1,0 +1,21 @@
+ul#nav-bar-ul:hover li {
+    opacity: 0.2;
+    filter: blur(2px);
+  }
+  
+  ul#nav-bar-ul li:hover {
+    opacity: 1;
+    filter: blur(0);
+  }
+  
+  nav#social-media ul:hover li {
+    opacity: 0.2;
+    filter: blur(2px);
+  }
+  
+  nav#social-media ul li:hover {
+    opacity: 1;
+    filter: blur(0);
+  }
+  
+  
